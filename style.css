@@ -107,15 +107,23 @@ header ul li a {
     transform: rotate(-5deg);
 }
 
+.thumbBug {
+    max-width: 170px;
+    padding: 4px;
+}
+
 .thumbBuggy {
     max-width: 110px;
     padding: 4px;
+    margin-top: 19px;
+
 }
 
 .thumbTruggy {
     max-width: 100px;
-    margin-top: 11px;
+    margin-top: 25px;
 }
+
 
 .content .imgBox img {
     max-width: 600px;
