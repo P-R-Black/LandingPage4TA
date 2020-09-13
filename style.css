@@ -101,27 +101,30 @@ header ul li a {
 }
 
 .buggy {
-    max-width: 750px;
     margin-left: -10%;
     z-index: -1;
     transform: rotate(-5deg);
+    max-height: 850px;
 }
 
 .thumbBug {
-    max-width: 170px;
+    max-width: 125px;
     padding: 4px;
+    margin-top: 10px;
 }
 
 .thumbBuggy {
     max-width: 110px;
     padding: 4px;
     margin-top: 19px;
+    transform: rotate(-5deg);
 
 }
 
 .thumbTruggy {
     max-width: 100px;
     margin-top: 25px;
+    transform: rotate(9deg);
 }
 
 
@@ -179,5 +182,4 @@ header ul li a {
     font-size: 50px;
     padding: 10px;
     color: black;
-
 }
